@@ -1,1 +1,7 @@
-This file was created by JetBrains RubyMine 4.5.4 for binding GitHub repository
+This is a little Ruby / Sinatra web-based voting app for the Academy Awards.
+
+Users enter a name, then guess what is going to win in each category. At the end, they are scored on how accurate they were.
+
+nominees.yaml contains the nominees for each category.
+
+To enter the correct answers, vote normally with the name 'Correct".
