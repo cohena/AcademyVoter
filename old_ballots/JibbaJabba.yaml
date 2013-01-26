@@ -1,0 +1,291 @@
+---
+:voter_name: JibbaJabba
+:selections:
+  ? - :Foreign Language Film
+    - - !ruby/object:Nominee
+        name: Belgium - Bullhead
+      - !ruby/object:Nominee
+        name: Canada - Monsieur Lazhar
+      - !ruby/object:Nominee
+        name: Iran - A Separation
+      - !ruby/object:Nominee
+        name: Israel - Footnote
+      - !ruby/object:Nominee
+        name: Poland - In Darkness
+  : 
+  ? - :Actress In a Leading Role
+    - - !ruby/object:Nominee
+        name: Glenn Close - Albert Nobbs
+      - !ruby/object:Nominee
+        name: Viola Davis - The Help
+      - !ruby/object:Nominee
+        name: Rooney Mara - The Girl with the Dragon Tattoo
+      - !ruby/object:Nominee
+        name: Meryl Streep - The Iron Lady
+      - !ruby/object:Nominee
+        name: Michelle Williams - My Week With Marilyn
+  : 
+  ? - :Sound Editing
+    - - !ruby/object:Nominee
+        name: Drive
+      - !ruby/object:Nominee
+        name: The Girl With The Dragon Tattoo
+      - !ruby/object:Nominee
+        name: Hugo
+      - !ruby/object:Nominee
+        name: ! 'Transformers: Dark Side of the Moon'
+      - !ruby/object:Nominee
+        name: War Horse
+  : 
+  ? - :Costume Design
+    - - !ruby/object:Nominee
+        name: Anonymous
+      - !ruby/object:Nominee
+        name: The Artist
+      - !ruby/object:Nominee
+        name: Hugo
+      - !ruby/object:Nominee
+        name: Jane Eyre
+      - !ruby/object:Nominee
+        name: W.E.
+  : 
+  ? - :Cinematography
+    - - !ruby/object:Nominee
+        name: The Artist
+      - !ruby/object:Nominee
+        name: The Girl With The Dragon Tattoo
+      - !ruby/object:Nominee
+        name: Hugo
+      - !ruby/object:Nominee
+        name: The Tree of Life
+      - !ruby/object:Nominee
+        name: War Horse
+  : 
+  ? - :Actor In a Supporting Role
+    - - !ruby/object:Nominee
+        name: Kenneth Branagh - My Week With Marilyn
+      - !ruby/object:Nominee
+        name: Jonah Hill - Moneyball
+      - !ruby/object:Nominee
+        name: Nick Nolte - Warrior
+      - !ruby/object:Nominee
+        name: Christopher Plummer - Beginners
+      - &70336881374080 !ruby/object:Nominee
+        name: Max von Sydow - Extremely Loud & Incredibly Close
+  : 
+  ? - :Sound Mixing
+    - - !ruby/object:Nominee
+        name: The Girl With The Dragon Tattoo
+      - !ruby/object:Nominee
+        name: Hugo
+      - !ruby/object:Nominee
+        name: Moneyball
+      - !ruby/object:Nominee
+        name: ! 'Transformers: Dark Side of the Moon'
+      - !ruby/object:Nominee
+        name: War Horse
+  : 
+  ? - :Music Score
+    - - !ruby/object:Nominee
+        name: The Adventures of Tintin - John Williams
+      - !ruby/object:Nominee
+        name: The Artist - Ludovic Bource
+      - !ruby/object:Nominee
+        name: Hugo - Howard Shore
+      - !ruby/object:Nominee
+        name: Tinker Tailor Soldier Spy - Alberto Iglesias
+      - !ruby/object:Nominee
+        name: War Horse - John Williams
+  : 
+  ? - :Actress In a Supporting Role
+    - - !ruby/object:Nominee
+        name: Berenice Bejo - The Artist
+      - !ruby/object:Nominee
+        name: Jessica Chastain - The Help
+      - !ruby/object:Nominee
+        name: Melissa McCarthy - Bridesmaids
+      - !ruby/object:Nominee
+        name: Janet McTeer - Albert Nobbs
+      - !ruby/object:Nominee
+        name: Octavia Spencer - The Help
+  : 
+  ? - :Visual Effects
+    - - !ruby/object:Nominee
+        name: Harry Potter and the Deathly Hallows Part 2
+      - !ruby/object:Nominee
+        name: Hugo
+      - !ruby/object:Nominee
+        name: Real Steel
+      - !ruby/object:Nominee
+        name: Rise of the Planet of the Apes
+      - !ruby/object:Nominee
+        name: ! 'Transformers: Dark Side of the Moon'
+  : 
+  ? - :Documentary Feature
+    - - !ruby/object:Nominee
+        name: Hell and Back Again
+      - !ruby/object:Nominee
+        name: If a Tree Falls
+      - !ruby/object:Nominee
+        name: ! 'Paradise Lost 3: Purgatory'
+      - !ruby/object:Nominee
+        name: Pina
+      - !ruby/object:Nominee
+        name: Undefeated
+  : 
+  ? - :Music Song
+    - - !ruby/object:Nominee
+        name: Man or Muppet - The Muppets
+      - !ruby/object:Nominee
+        name: Real in Rio - Rio
+  : 
+  ? - :Animated Feature Film
+    - - !ruby/object:Nominee
+        name: A Cat in Paris
+      - !ruby/object:Nominee
+        name: Chico & Rita
+      - !ruby/object:Nominee
+        name: Kung Fu Panda 2
+      - !ruby/object:Nominee
+        name: Puss In Boots
+      - !ruby/object:Nominee
+        name: Rango
+  : 
+  ? - :Writing Adapted
+    - - !ruby/object:Nominee
+        name: The Descendants
+      - !ruby/object:Nominee
+        name: Hugo
+      - !ruby/object:Nominee
+        name: The Ides of March
+      - !ruby/object:Nominee
+        name: Moneyball
+      - !ruby/object:Nominee
+        name: Tinker Tailor Soldier Spy
+  : 
+  ? - :Makeup
+    - - !ruby/object:Nominee
+        name: Albert Nobbs
+      - !ruby/object:Nominee
+        name: Harry Potter and the Deathly Hallows Part 2
+      - !ruby/object:Nominee
+        name: The Iron Lady
+  : 
+  ? - :Documentary Short
+    - - !ruby/object:Nominee
+        name: The Barber of Birmingham
+      - !ruby/object:Nominee
+        name: God is the Bigger Elvis
+      - !ruby/object:Nominee
+        name: Incident in New Baghdad
+      - !ruby/object:Nominee
+        name: Saving Face
+      - !ruby/object:Nominee
+        name: The Tsunami and the Cherry Blossom
+  : 
+  ? - :Best Picture
+    - - !ruby/object:Nominee
+        name: The Artist
+      - !ruby/object:Nominee
+        name: The Descendants
+      - !ruby/object:Nominee
+        name: Extremely Loud & Incredibly Close
+      - !ruby/object:Nominee
+        name: The Help
+      - !ruby/object:Nominee
+        name: Hugo
+      - !ruby/object:Nominee
+        name: Midnight in Paris
+      - !ruby/object:Nominee
+        name: Moneyball
+      - !ruby/object:Nominee
+        name: The Tree of Life
+      - !ruby/object:Nominee
+        name: War Horse
+  : 
+  ? - :Short Film Animated
+    - - !ruby/object:Nominee
+        name: Dimanche/Sunday
+      - !ruby/object:Nominee
+        name: The Fantastic Flying Books of Mr. Morris Lessmore
+      - !ruby/object:Nominee
+        name: La Luna
+      - !ruby/object:Nominee
+        name: A Morning Stroll
+      - !ruby/object:Nominee
+        name: Wild Life
+  : 
+  ? - :Directing
+    - - !ruby/object:Nominee
+        name: The Artist - Michel Hazanavicius
+      - !ruby/object:Nominee
+        name: The Descendants - Alexander Payne
+      - !ruby/object:Nominee
+        name: Hugo - Martin Scorsese
+      - !ruby/object:Nominee
+        name: Midnight in Paris - Woody Allen
+      - !ruby/object:Nominee
+        name: The Tree of Life - Terrence Malick
+  : 
+  ? - :Writing Original
+    - - !ruby/object:Nominee
+        name: The Artist
+      - !ruby/object:Nominee
+        name: Bridesmaids
+      - !ruby/object:Nominee
+        name: Margin Call
+      - !ruby/object:Nominee
+        name: Midnight in Paris
+      - !ruby/object:Nominee
+        name: A Separation
+  : 
+  ? - :Film Editing
+    - - !ruby/object:Nominee
+        name: The Artist
+      - !ruby/object:Nominee
+        name: The Descendants
+      - !ruby/object:Nominee
+        name: The Girl With The Dragon Tattoo
+      - !ruby/object:Nominee
+        name: Hugo
+      - !ruby/object:Nominee
+        name: Moneyball
+  : 
+  ? - :Actor In a Leading Role
+    - - &70336881334600 !ruby/object:Nominee
+        name: Demian Bichir - A Better Life
+      - !ruby/object:Nominee
+        name: George Clooney - The Descendants
+      - !ruby/object:Nominee
+        name: Jean Dujardin - The Artist
+      - !ruby/object:Nominee
+        name: Gary Oldman - Tinker Tailor Soldier Spy
+      - !ruby/object:Nominee
+        name: Brad Pitt - Moneyball
+  : 
+  ? - :Short Film Live Action
+    - - !ruby/object:Nominee
+        name: Pentecost
+      - !ruby/object:Nominee
+        name: Raju
+      - !ruby/object:Nominee
+        name: The Shore
+      - !ruby/object:Nominee
+        name: Time Freak
+      - !ruby/object:Nominee
+        name: Tuba Atlantic
+  : 
+  ? - :Art Direction
+    - - !ruby/object:Nominee
+        name: The Artist
+      - !ruby/object:Nominee
+        name: Harry Potter and the Deathly Hollows Part 2
+      - !ruby/object:Nominee
+        name: Hugo
+      - !ruby/object:Nominee
+        name: Midnight in Paris
+      - !ruby/object:Nominee
+        name: War Horse
+  : 
+  :Actor In a Leading Role: *70336881334600
+  :Actor In a Supporting Role: *70336881374080

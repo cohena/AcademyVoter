@@ -1,0 +1,28 @@
+---
+:voter_name: MyName
+:selections:
+  :Actor In a Leading Role: !ruby/object:Nominee
+    name: Jean Dujardin - The Artist
+  :Actor In a Supporting Role: 
+  :Actress In a Leading Role: 
+  :Actress In a Supporting Role: 
+  :Animated Feature Film: 
+  :Art Direction: 
+  :Best Picture: 
+  :Cinematography: 
+  :Costume Design: 
+  :Directing: 
+  :Documentary Feature: 
+  :Documentary Short: 
+  :Film Editing: 
+  :Foreign Language Film: 
+  :Makeup: 
+  :Music Score: 
+  :Music Song: 
+  :Short Film Animated: 
+  :Short Film Live Action: 
+  :Sound Editing: 
+  :Sound Mixing: 
+  :Visual Effects: 
+  :Writing Adapted: 
+  :Writing Original: 

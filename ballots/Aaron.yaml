@@ -1,0 +1,29 @@
+---
+:voter_name: Aaron
+:selections:
+  :Actor In a Leading Role: !ruby/object:Nominee
+    name: Demian Bichir - A Better Life
+  :Actor In a Supporting Role: !ruby/object:Nominee
+    name: Max von Sydow - Extremely Loud & Incredibly Close
+  :Actress In a Leading Role: 
+  :Actress In a Supporting Role: 
+  :Animated Feature Film: 
+  :Art Direction: 
+  :Best Picture: 
+  :Cinematography: 
+  :Costume Design: 
+  :Directing: 
+  :Documentary Feature: 
+  :Documentary Short: 
+  :Film Editing: 
+  :Foreign Language Film: 
+  :Makeup: 
+  :Music Score: 
+  :Music Song: 
+  :Short Film Animated: 
+  :Short Film Live Action: 
+  :Sound Editing: 
+  :Sound Mixing: 
+  :Visual Effects: 
+  :Writing Adapted: 
+  :Writing Original: 

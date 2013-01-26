@@ -1,0 +1,410 @@
+--- !ruby/object:Ballot 
+nominees: 
+  :"Documentary Feature": &id044 
+    - !ruby/object:Nominee 
+      name: Hell and Back Again
+    - !ruby/object:Nominee 
+      name: If a Tree Falls
+    - !ruby/object:Nominee 
+      name: "Paradise Lost 3: Purgatory"
+    - &id005 !ruby/object:Nominee 
+      name: Pina
+    - !ruby/object:Nominee 
+      name: Undefeated
+  :"Actor In a Leading Role": &id029 
+    - !ruby/object:Nominee 
+      name: Demian Bichir - A Better Life
+    - &id004 !ruby/object:Nominee 
+      name: George Clooney - The Descendants
+    - !ruby/object:Nominee 
+      name: Jean Dujardin - The Artist
+    - !ruby/object:Nominee 
+      name: Gary Oldman - Tinker Tailor Soldier Spy
+    - !ruby/object:Nominee 
+      name: Brad Pitt - Moneyball
+  :"Actor In a Supporting Role": &id017 
+    - !ruby/object:Nominee 
+      name: Kenneth Branagh - My Week With Marilyn
+    - !ruby/object:Nominee 
+      name: Jonah Hill - Moneyball
+    - !ruby/object:Nominee 
+      name: Nick Nolte - Warrior
+    - !ruby/object:Nominee 
+      name: Christopher Plummer - Beginners
+    - &id007 !ruby/object:Nominee 
+      name: Max von Sydow - Extremely Loud & Incredibly Close
+  :"Best Picture": &id032 
+    - &id008 !ruby/object:Nominee 
+      name: The Artist
+    - !ruby/object:Nominee 
+      name: The Descendants
+    - !ruby/object:Nominee 
+      name: Extremely Loud & Incredibly Close
+    - !ruby/object:Nominee 
+      name: The Help
+    - !ruby/object:Nominee 
+      name: Hugo
+    - !ruby/object:Nominee 
+      name: Midnight in Paris
+    - !ruby/object:Nominee 
+      name: Moneyball
+    - !ruby/object:Nominee 
+      name: The Tree of Life
+    - !ruby/object:Nominee 
+      name: War Horse
+  :"Foreign Language Film": &id002 
+    - !ruby/object:Nominee 
+      name: Belgium - Bullhead
+    - !ruby/object:Nominee 
+      name: Canada - Monsieur Lazhar
+    - !ruby/object:Nominee 
+      name: Iran - A Separation
+    - !ruby/object:Nominee 
+      name: Israel - Footnote
+    - &id010 !ruby/object:Nominee 
+      name: Poland - In Darkness
+  :"Music Song": &id024 
+    - &id012 !ruby/object:Nominee 
+      name: Man or Muppet - The Muppets
+    - !ruby/object:Nominee 
+      name: Real in Rio - Rio
+  :Makeup: &id034 
+    - !ruby/object:Nominee 
+      name: Albert Nobbs
+    - !ruby/object:Nominee 
+      name: Harry Potter and the Deathly Hallows Part 2
+    - &id011 !ruby/object:Nominee 
+      name: The Iron Lady
+  :"Short Film Live Action": &id036 
+    - !ruby/object:Nominee 
+      name: Pentecost
+    - &id013 !ruby/object:Nominee 
+      name: Raju
+    - !ruby/object:Nominee 
+      name: The Shore
+    - !ruby/object:Nominee 
+      name: Time Freak
+    - !ruby/object:Nominee 
+      name: Tuba Atlantic
+  :"Sound Mixing": &id016 
+    - !ruby/object:Nominee 
+      name: The Girl With The Dragon Tattoo
+    - !ruby/object:Nominee 
+      name: Hugo
+    - !ruby/object:Nominee 
+      name: Moneyball
+    - !ruby/object:Nominee 
+      name: "Transformers: Dark Side of the Moon"
+    - &id015 !ruby/object:Nominee 
+      name: War Horse
+  :"Short Film Animated": &id038 
+    - !ruby/object:Nominee 
+      name: Dimanche/Sunday
+    - &id014 !ruby/object:Nominee 
+      name: The Fantastic Flying Books of Mr. Morris Lessmore
+    - !ruby/object:Nominee 
+      name: La Luna
+    - !ruby/object:Nominee 
+      name: A Morning Stroll
+    - !ruby/object:Nominee 
+      name: Wild Life
+  :"Actress In a Leading Role": &id035 
+    - &id020 !ruby/object:Nominee 
+      name: Glenn Close - Albert Nobbs
+    - !ruby/object:Nominee 
+      name: Viola Davis - The Help
+    - !ruby/object:Nominee 
+      name: Rooney Mara - The Girl with the Dragon Tattoo
+    - !ruby/object:Nominee 
+      name: Meryl Streep - The Iron Lady
+    - !ruby/object:Nominee 
+      name: Michelle Williams - My Week With Marilyn
+  :Cinematography: &id026 
+    - !ruby/object:Nominee 
+      name: The Artist
+    - !ruby/object:Nominee 
+      name: The Girl With The Dragon Tattoo
+    - !ruby/object:Nominee 
+      name: Hugo
+    - &id018 !ruby/object:Nominee 
+      name: The Tree of Life
+    - !ruby/object:Nominee 
+      name: War Horse
+  :"Animated Feature Film": &id006 
+    - !ruby/object:Nominee 
+      name: A Cat in Paris
+    - !ruby/object:Nominee 
+      name: Chico & Rita
+    - !ruby/object:Nominee 
+      name: Kung Fu Panda 2
+    - !ruby/object:Nominee 
+      name: Puss In Boots
+    - &id021 !ruby/object:Nominee 
+      name: Rango
+  :"Art Direction": &id047 
+    - !ruby/object:Nominee 
+      name: The Artist
+    - !ruby/object:Nominee 
+      name: Harry Potter and the Deathly Hollows Part 2
+    - &id019 !ruby/object:Nominee 
+      name: Hugo
+    - !ruby/object:Nominee 
+      name: Midnight in Paris
+    - !ruby/object:Nominee 
+      name: War Horse
+  :"Music Score": &id009 
+    - !ruby/object:Nominee 
+      name: The Adventures of Tintin - John Williams
+    - &id023 !ruby/object:Nominee 
+      name: The Artist - Ludovic Bource
+    - !ruby/object:Nominee 
+      name: Hugo - Howard Shore
+    - !ruby/object:Nominee 
+      name: Tinker Tailor Soldier Spy - Alberto Iglesias
+    - !ruby/object:Nominee 
+      name: War Horse - John Williams
+  :"Sound Editing": &id022 
+    - !ruby/object:Nominee 
+      name: Drive
+    - &id027 !ruby/object:Nominee 
+      name: The Girl With The Dragon Tattoo
+    - !ruby/object:Nominee 
+      name: Hugo
+    - !ruby/object:Nominee 
+      name: "Transformers: Dark Side of the Moon"
+    - !ruby/object:Nominee 
+      name: War Horse
+  :"Writing Adapted": &id040 
+    - !ruby/object:Nominee 
+      name: The Descendants
+    - !ruby/object:Nominee 
+      name: Hugo
+    - !ruby/object:Nominee 
+      name: The Ides of March
+    - &id028 !ruby/object:Nominee 
+      name: Moneyball
+    - !ruby/object:Nominee 
+      name: Tinker Tailor Soldier Spy
+  :"Actress In a Supporting Role": &id025 
+    - !ruby/object:Nominee 
+      name: Berenice Bejo - The Artist
+    - !ruby/object:Nominee 
+      name: Jessica Chastain - The Help
+    - &id033 !ruby/object:Nominee 
+      name: Melissa McCarthy - Bridesmaids
+    - !ruby/object:Nominee 
+      name: Janet McTeer - Albert Nobbs
+    - !ruby/object:Nominee 
+      name: Octavia Spencer - The Help
+  :"Writing Original": &id031 
+    - !ruby/object:Nominee 
+      name: The Artist
+    - &id030 !ruby/object:Nominee 
+      name: Bridesmaids
+    - !ruby/object:Nominee 
+      name: Margin Call
+    - !ruby/object:Nominee 
+      name: Midnight in Paris
+    - !ruby/object:Nominee 
+      name: A Separation
+  :"Costume Design": &id043 
+    - !ruby/object:Nominee 
+      name: Anonymous
+    - &id037 !ruby/object:Nominee 
+      name: The Artist
+    - !ruby/object:Nominee 
+      name: Hugo
+    - !ruby/object:Nominee 
+      name: Jane Eyre
+    - !ruby/object:Nominee 
+      name: W.E.
+  :"Visual Effects": &id039 
+    - !ruby/object:Nominee 
+      name: Harry Potter and the Deathly Hallows Part 2
+    - &id041 !ruby/object:Nominee 
+      name: Hugo
+    - !ruby/object:Nominee 
+      name: Real Steel
+    - !ruby/object:Nominee 
+      name: Rise of the Planet of the Apes
+    - !ruby/object:Nominee 
+      name: "Transformers: Dark Side of the Moon"
+  :"Film Editing": &id003 
+    - !ruby/object:Nominee 
+      name: The Artist
+    - !ruby/object:Nominee 
+      name: The Descendants
+    - &id042 !ruby/object:Nominee 
+      name: The Girl With The Dragon Tattoo
+    - !ruby/object:Nominee 
+      name: Hugo
+    - !ruby/object:Nominee 
+      name: Moneyball
+  :"Documentary Short": &id048 
+    - !ruby/object:Nominee 
+      name: The Barber of Birmingham
+    - !ruby/object:Nominee 
+      name: God is the Bigger Elvis
+    - !ruby/object:Nominee 
+      name: Incident in New Baghdad
+    - &id045 !ruby/object:Nominee 
+      name: Saving Face
+    - !ruby/object:Nominee 
+      name: The Tsunami and the Cherry Blossom
+  :Directing: &id001 
+    - &id046 !ruby/object:Nominee 
+      name: The Artist - Michel Hazanavicius
+    - !ruby/object:Nominee 
+      name: The Descendants - Alexander Payne
+    - !ruby/object:Nominee 
+      name: Hugo - Martin Scorsese
+    - !ruby/object:Nominee 
+      name: Midnight in Paris - Woody Allen
+    - !ruby/object:Nominee 
+      name: The Tree of Life - Terrence Malick
+selections: 
+  ? 
+    - :Directing
+    - *id001
+  : 
+
+  ? 
+    - :"Foreign Language Film"
+    - *id002
+  : 
+
+  ? 
+    - :"Film Editing"
+    - *id003
+  : 
+
+  :"Actor In a Leading Role": *id004
+  :"Documentary Feature": *id005
+  ? 
+    - :"Animated Feature Film"
+    - *id006
+  : 
+
+  :"Actor In a Supporting Role": *id007
+  :"Best Picture": *id008
+  ? 
+    - :"Music Score"
+    - *id009
+  : 
+
+  :"Foreign Language Film": *id010
+  :Makeup: *id011
+  :"Music Song": *id012
+  :"Short Film Live Action": *id013
+  :"Short Film Animated": *id014
+  :"Sound Mixing": *id015
+  ? 
+    - :"Sound Mixing"
+    - *id016
+  : 
+
+  ? 
+    - :"Actor In a Supporting Role"
+    - *id017
+  : 
+
+  :Cinematography: *id018
+  :"Art Direction": *id019
+  :"Actress In a Leading Role": *id020
+  :"Animated Feature Film": *id021
+  ? 
+    - :"Sound Editing"
+    - *id022
+  : 
+
+  :"Music Score": *id023
+  ? 
+    - :"Music Song"
+    - *id024
+  : 
+
+  ? 
+    - :"Actress In a Supporting Role"
+    - *id025
+  : 
+
+  ? 
+    - :Cinematography
+    - *id026
+  : 
+
+  :"Sound Editing": *id027
+  :"Writing Adapted": *id028
+  ? 
+    - :"Actor In a Leading Role"
+    - *id029
+  : 
+
+  :"Writing Original": *id030
+  ? 
+    - :"Writing Original"
+    - *id031
+  : 
+
+  ? 
+    - :"Best Picture"
+    - *id032
+  : 
+
+  :"Actress In a Supporting Role": *id033
+  ? 
+    - :Makeup
+    - *id034
+  : 
+
+  ? 
+    - :"Actress In a Leading Role"
+    - *id035
+  : 
+
+  ? 
+    - :"Short Film Live Action"
+    - *id036
+  : 
+
+  :"Costume Design": *id037
+  ? 
+    - :"Short Film Animated"
+    - *id038
+  : 
+
+  ? 
+    - :"Visual Effects"
+    - *id039
+  : 
+
+  ? 
+    - :"Writing Adapted"
+    - *id040
+  : 
+
+  :"Visual Effects": *id041
+  :"Film Editing": *id042
+  ? 
+    - :"Costume Design"
+    - *id043
+  : 
+
+  ? 
+    - :"Documentary Feature"
+    - *id044
+  : 
+
+  :"Documentary Short": *id045
+  :Directing: *id046
+  ? 
+    - :"Art Direction"
+    - *id047
+  : 
+
+  ? 
+    - :"Documentary Short"
+    - *id048
+  : 
+
+voter_name: Elyse

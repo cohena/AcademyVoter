@@ -1,0 +1,14 @@
+<div id="header">
+  <h1>Leaderboard</h1>
+</div>
+<div id="container">
+  <ol>
+    <% scores.each do |score| %>
+        <li><%= score[0] %>
+          <div id="score"><%= score[1] %> points</div>
+        </li>
+    <% end %>
+  </ol>
+  <br/>
+  <a href="/">Go Home</a>
+</div>

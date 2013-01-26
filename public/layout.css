@@ -1,0 +1,80 @@
+body {
+    background-color: #ffffff; /* Background color */
+    color: #222; /* Foreground color used for text */
+    font-family: Helvetica;
+    margin: 0; /* Amount of negative space around the outside of the body */
+    padding: 1em; /* Amount of negative space around the inside of the body */
+}
+
+#header h1 {
+    margin: 0;
+    padding: 0;
+    background-color: #ccc;
+    border-bottom: 1px solid #666;
+    color: #fff;
+    display: block;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 0;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: rgba(0, 0, 0, 0.6) 0px -1px 0px;
+    background: -webkit-gradient(linear, left top, left bottom, from(rgb(212, 62, 55)), to(rgb(136, 4, 3)));
+}
+
+#container ul {
+    list-style: none;
+    margin: 10px;
+    padding: 0;
+}
+
+#container ul li {
+    background-color: #fffadb;
+    border: 1px solid #999999;
+    color: #222222;
+    display: block;
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: -1px;
+    padding: 12px 10px;
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0.2);
+}
+
+#container ol {
+    list-style: decimal;
+    margin: 10px;
+    padding: 0;
+}
+
+#container ol li {
+    background-color: #fffadb;
+    border: 1px solid #999999;
+    color: #222222;
+    font-size: 17px;
+    font-weight: bold;
+    list-style-position: inside;
+    list-style-type: decimal;
+    margin-bottom: -1px;
+    padding: 12px 10px;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0.2);
+}
+
+#container form {
+    border: 1px solid #999999;
+    display: block;
+    padding: 12px 10px;
+}
+
+#container form textarea {
+    width: 95%;
+}
+
+#copyright {
+    font-size: 10px;
+    padding: 10px;
+}
+
+#score {
+    float: right;
+}
