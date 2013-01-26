@@ -17,5 +17,9 @@ tmp
 _yardoc
 doc/
 
+# OSX
+.DS_Store
+
 # project specific
+.idea
 ballots
