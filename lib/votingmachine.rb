@@ -59,8 +59,9 @@ class BallotBox
     def initialize(ballot_dir, nominees_file)
         @ballot_dir = ballot_dir
         @ballots = {}
-        @nominees = YAML.load(File.open(nominees_file))
+        @nominees = {}
 
+        load_nominees(nominees_file)
         load_ballots
     end
 
@@ -68,6 +69,15 @@ class BallotBox
         new_ballot = Ballot.new(name.to_s, self)
         @ballots[name.to_sym] = new_ballot
         return new_ballot
+    end
+
+    def load_nominees(nominees_file)
+        @nominees = YAML.load(File.open(nominees_file))
+        @nominees.each_pair do |category, nom_array|
+            @nominees[category] = nom_array.map do |item|
+                Nominee.new(item)
+            end
+        end
     end
 
     def load_ballots

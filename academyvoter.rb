@@ -13,6 +13,10 @@ require 'votingmachine'
 BALLOT_DIR = Pathname.new("./ballots/").expand_path
 NOMS_FILE = Pathname.new("./nominees.yaml").expand_path
 
+if not BALLOT_DIR.exist?
+    Dir.new(BALLOT_DIR)
+end
+
 main_ballot_box = BallotBox.new(BALLOT_DIR, NOMS_FILE)
 
 # SinatraStuff

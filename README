@@ -4,4 +4,4 @@ Users enter a name, then guess what is going to win in each category. At the end
 
 nominees.yaml contains the nominees for each category.
 
-To enter the correct answers, vote normally with the name 'Correct".
+To enter the correct answers, vote normally with the name 'Correct'.
