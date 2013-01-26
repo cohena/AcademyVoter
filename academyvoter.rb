@@ -76,6 +76,11 @@ post '/vote/:voter_name' do
     redirect "/vote/#{URI.encode(params[:voter_name])}"
 end
 
+get '/change_user' do
+    session['voter_name'] = ""
+    redirect '/vote'
+end
+
 get '/viewresults' do
     erb :results, :locals => {:scores => main_ballot_box.get_all_scores}
 end
